@@ -12,8 +12,9 @@ rackup config/cms.ru
 
 TESTING
 -----
-# all 
+
+## all 
 bundle exec rake
 
-# specific a test
+## specific a test
 ruby -Ispec spec/admin/controllers/root/index_spec.rb
