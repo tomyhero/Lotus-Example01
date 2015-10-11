@@ -1,9 +1,8 @@
 LOTUS EXAMPLE 001
 -----------
-* try to use Lotus Router,Controller and View in a system which container multiple rackup applications
+* try to use Lotus Router,Controller and View in a system which has site/cms/admin 
 * test
 * this sample does not use Model
-* site/cms/admin 
 
 
 HOW TO START
